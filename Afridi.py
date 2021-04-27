@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-
+#Developer Ijazu Hacker
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -49,13 +49,13 @@ def jalan(z):
 ##### LOGO  #####
 logo = """ 
 
-\33[38;1mJUNAID_KHAN_KPT
+\33[38;1mIjaz_Afridi_AHK
 \33[38;1mETHICAL_HACKER
-\33[38;1mKPT___BRAND
-\33[38;1mBRAND_OF_KPT
-\33[38;1m03039654859
+\33[38;1mAHK___BRAND
+\33[38;1mBRAND_OF_AHK
+\33[38;1mInsta @fouji.pr
 \33[38;1mLoaded....100%
-\033[0;35m[\033[0;92m •• \033[0;35m] Author   : JUNAID_KHAN_KPT
+\033[0;35m[\033[0;92m •• \033[0;35m] Author   : IJAZ_AFRIDI_AHK
 \033[1;34m\033[1;41;33mヅ︻写፨丐יי一一一 ҉ ㄹㅇㄹ1\033[0m"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -75,20 +75,20 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\33[31;1mJUNAID_KHAN_KPT
+\33[31;1mIJAZ_AFRIDI_AHK
 \33[31;1m░P░A░K░ ░H░A░C░K░E░R░
 \33[31;1m🅿🅰🅺🅸🆂🆃🅰🅽 🆉🅸🅽🅳🅰🅱🅰🅳
 \33[31;1m𝗩𝗜𝗦𝗜𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
-\33[31;1mC͎H͎A͎N͎N͎E͎L͎ ͎N͎A͎M͎E͎=͎ ͎JUNAID_TRICKER
+\33[31;1mC͎H͎A͎N͎N͎E͎L͎ ͎N͎A͎M͎E͎=͎ ͎AFRIDI_TRICKS
 \33[31;1mLOADING........
-\033[0;39m[\033[0;92m •• \033[0;39m] Author   : JUNAID_KHAN_KPT
+\033[0;39m[\033[0;92m •• \033[0;39m] Author   : IJAZ_AFRIDI_AHK
 \033[1;39m\033[1;41;39mヅ︻写፨丐יי一一一 ҉ ㄹㅇㄹ1 \033[0m
 \033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
-print("\033[0;92mUsername/Password: KPT/BRAND")
+print("\033[0;92mUsername/Password: AHK/AFRIDI")
 print("\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-CorrectUsername = "KPT"
-CorrectPassword = "BRAND"
+CorrectUsername = "AHK"
+CorrectPassword = "AFRIDI"
 
 
 loop = 'true'
